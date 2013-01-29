@@ -3,6 +3,7 @@
 Some simple ruby script that make use of ActiveRecord CRUD tasks outside of Rails.
 
 Hello. This is my repo now. This repo belongs to Derek Ranger.
+Just adding this to re-commit like a boss! woot woot!!
 
 ## Active Record Resources
 
